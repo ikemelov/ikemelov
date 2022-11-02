@@ -5,11 +5,11 @@
 ![github-read me-banner](https://user-images.githubusercontent.com/79243012/197102007-67fd5288-0295-4600-97c0-d241b313093c.png)
 
 
-- 🔭 I’m currently working on [Personal Website with ReactJS]([https://xd.adobe.com/view/e2c8d02d-d535-4baa-b2ef-ba17e3fbfa4e-b79b/screen/7874f7ae-5ffb-42d9-b76e-6268330079ff?fullscreen&hints=off](https://xd.adobe.com/view/e2c8d02d-d535-4baa-b2ef-ba17e3fbfa4e-b79b/?fullscreen&hints=off))
+- 🔭 I’m currently working on [Personal Website with ReactJS](https://xd.adobe.com/view/e2c8d02d-d535-4baa-b2ef-ba17e3fbfa4e-b79b/?fullscreen&hints=off)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/liam-kemelov-1a4037208" target="blank"><img align="center" alt="www.linkedin.com/in/liam-kemelov-1a4037208" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/liam-kemelov-1a4037208" target="LinkedIn"><img align="center" alt="www.linkedin.com/in/liam-kemelov-1a4037208" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
